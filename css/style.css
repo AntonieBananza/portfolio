@@ -19,7 +19,7 @@ header {
 	  color: black;
   text-align: left;
 	 font-family: verdana;
-background-color: gray;
+background-color:gray;
 
 }
 
@@ -36,11 +36,11 @@ margin-right: 30vw;
 }
 
 img {
-  max-width: 100%
+  max-width: 100%;
 }
 
 .image {
-  flex-basis: 100%
+  flex-basis: 100%;
 }
 
 .text {
@@ -52,7 +52,7 @@ img {
 background-color: gray;
 
 }
-link { color: black; 
+a { color: black; 
 }
-link:hover {color: blueviolet;
+a:hover {color: blueviolet;
 }
