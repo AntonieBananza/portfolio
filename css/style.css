@@ -52,8 +52,7 @@ img {
 background-color: gray;
 
 }
-.link { color: black; 
+link { color: black; 
 }
-.link:hover {color: blueviolet;
-
+link:hover {color: blueviolet;
 }
