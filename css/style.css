@@ -12,8 +12,10 @@ h1 {
 
 }
 
-
-head {
+h4 {
+	text-size: 15px;
+}
+header {
 	  color: black;
   text-align: left;
 	 font-family: verdana;
@@ -23,7 +25,25 @@ background-color: gray;
 
 section { 
 	background-color: darkorchid;
-    text-align: right;
+    text-align: left;
+margin-right: 30vw;
 
+}
+.container {
+  display: flex;
+  align-items: right;
+  justify-content: center;
+}
 
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 100%
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 10px;
 }
