@@ -13,7 +13,7 @@ h1 {
 }
 
 h4 {
-	text-size: 15px;
+	height: 15px;
 }
 header {
 	  color: black;
@@ -46,4 +46,14 @@ img {
 .text {
   font-size: 20px;
   padding-left: 10px;
+}
+
+.work {
+background-color: gray;
+
+}
+.link { color: black; 
+}
+.link:hover {color: blueviolet;
+
 }
