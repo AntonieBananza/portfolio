@@ -56,3 +56,15 @@ a { color: black;
 }
 a:hover {color: blueviolet;
 }
+.button {
+  display: flex;
+  align-items: right;
+  justify-content: center;
+  color: rgba(139, 139, 139, 0.501);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
