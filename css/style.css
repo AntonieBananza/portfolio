@@ -245,6 +245,47 @@ nav {
     font-size: 20px;
 }
 
+#portfolio2 {
+    background-image: url(../images/portfolio\ anton\ img\ 4.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 0;
+}
+
+#portfolio2 .btn {
+    margin-bottom: 5vh;
+}
+
+#portfolio2-tekst {
+    width: 40vw;
+    margin-right: 45vw;
+    height: 45vh;
+    background-color: antiquewhite;
+    border-radius: 2vw;
+    padding: 25px;
+}
+
+#portfolio2-tekst h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#portfolio2-tekst h3 {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#portfolio2-tekst p {
+    font-size: 20px;
+}
+
+
+
 #footer-top {
     background-color: antiquewhite;
     height: 6vh;
