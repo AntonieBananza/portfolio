@@ -297,6 +297,17 @@ nav {
     margin-bottom: 0;
 }
 
+#portfolio3 {
+    background-image: url(../images/portfolio\ anton\ background.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 88vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 0;
+}
 
 #footer-top {
     background-color: antiquewhite;
