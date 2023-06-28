@@ -228,21 +228,21 @@ nav {
     height: 50vh;
     background-color: antiquewhite;
     border-radius: 3vw;
-    padding: 25px;
+    padding: 30px;
 }
 
 #portfolio-tekst h2 {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
 }
 
 #portfolio-tekst h3 {
-    font-size: 21px;
+    font-size: 18px;
     font-weight: bold;
 }
 
 #portfolio-tekst p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 #portfolio2 {
